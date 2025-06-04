@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-06-04T17:46:51Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.671119,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Six Strain Gauge Amplifier v44"
+        },
+        "Owner": "Clarus Goldsmith <cg00022@mix.wvu.edu>",
+        "Size": {
+            "X": 40.005,
+            "Y": 47.7012
+        }
+    }
+}

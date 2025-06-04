@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-06-04T17:52:19Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.74,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Servo Power Board Redo v43"
+        },
+        "Owner": "Clarus Goldsmith <cg00022@mix.wvu.edu>",
+        "Size": {
+            "X": 67.31,
+            "Y": 38.1
+        }
+    }
+}

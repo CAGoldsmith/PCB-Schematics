@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-06-04T17:09:07Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.671119,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "36OpenCMMUX v65"
+        },
+        "Owner": "Clarus Goldsmith <cg00022@mix.wvu.edu>",
+        "Size": {
+            "X": 50.47,
+            "Y": 91.44
+        }
+    }
+}
