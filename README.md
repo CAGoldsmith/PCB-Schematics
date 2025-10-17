@@ -1,0 +1,1 @@
+For manufacturing each board, download the "<board name>_CamFiles" zip file for the desired board in the board's "CAMOutputs" folder. For example, for the 36 Position OpenCM MUX, the required file would be "36PosMUX_CamFiles.zip"
