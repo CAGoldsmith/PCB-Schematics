@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2025-06-04T17:46:51Z",
+        "CreationDate": "2025-10-20T17:31:46Z",
         "GenerationSoftware": {
             "Application": "Fusion Electronics",
             "Vendor": "Autodesk",
@@ -13,12 +13,12 @@
         "BoardThickness": 1.671119,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "Six Strain Gauge Amplifier v44"
+            "ProjectId": "36OpenCMMUX v65"
         },
         "Owner": "Clarus Goldsmith <cg00022@mix.wvu.edu>",
         "Size": {
-            "X": 40.005,
-            "Y": 47.7012
+            "X": 50.47,
+            "Y": 91.44
         }
     }
 }
